@@ -17,3 +17,5 @@ belirten makale yazın. (5 PUAN)
 • MongoDB
 • Coucbase
 • Redis
+
+SORU 2)a = EmlakBurada-Jdbc
